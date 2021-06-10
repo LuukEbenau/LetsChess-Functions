@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 
-namespace LetsChess.Functions
+namespace LetsChess_Functions
 {
     public static class Function1
     {
